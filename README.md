@@ -25,6 +25,7 @@ Este projeto é um clone da página de login do Orkut, a rede social que marcou 
 * O projeto foi desenvolvido para fins de aprendizado e nostalgia, não devendo ser utilizado para fins comerciais.
 
 **Este projeto foi criado por:**
+
 João Pedro Soares de Brito
 
 <div>
