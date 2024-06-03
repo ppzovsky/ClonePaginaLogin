@@ -6,35 +6,32 @@ Este projeto é um clone da página de login do Orkut, a rede social que marcou 
 
 **Tecnologias Utilizadas**
 
-* HTML para estruturação da página
-* CSS para estilização da interface
-* JavaScript para interatividade e validação de dados
+* React/Vite
 
 **Funcionalidades**
 
 * Campo de login para inserir e-mail
 * Campo de senha para inserir senha
 * Botão "Entrar" para realizar o login
-* Links para criação de nova conta e recuperação de senha
+* O projeto simula o login com o uso de useEffects e useStates
 
-**Imagem da Página de Login**
+**Imagem da Página de Login Original**
 
-! [Imagem da página de login do Orkut clonada] (https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3223504:1651106584/image.jpg?h=630&q=0.6&w=1200&$p$h$q$w=f76cc5e)
+![Imagem da página de login do Orkut clonada](https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3223504:1651106584/image.jpg?h=630&q=0.6&w=1200&$p$h$q$w=f76cc5e)
 
 **Observações**
 
 * Este projeto é um clone visual da página de login do Orkut, não possuindo funcionalidades de autenticação ou conexão com a rede social original.
 * O projeto foi desenvolvido para fins de aprendizado e nostalgia, não devendo ser utilizado para fins comerciais.
 
-**Próximos Passos**
+**Este projeto foi criado por:**
+João Pedro Soares de Brito
 
-* Implementar funcionalidade de validação de login
-* Criar as páginas de perfil e comunidades
-* Adicionar outros recursos característicos do Orkut
-
-**Licença**
-
-Este projeto está sob a licença MIT.
+<div>
+<a href="https://www.instagram.com/ppzovsky/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@joaopedrosoaresdebrito@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-soares-164964236/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 **Contribuições**
 
