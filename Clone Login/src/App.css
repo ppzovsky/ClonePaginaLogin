@@ -1,0 +1,79 @@
+#root {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  background-color: #D5DDF1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+  height: 25%;
+  width: auto;
+  margin-bottom: 2rem;
+}
+.container01{
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 60%;
+  flex-direction: column;
+  background-color: aliceblue;
+  left: 4%;
+  top: 15%;
+}
+.container01 p{
+  margin: 0;
+}
+.primeiraPalavra{
+  color: #EE2091;
+  font-weight: bolder;
+}
+.container02{
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  width: 30%;
+  height: 42%;
+  right: 4%;
+  background-color: #E9EBF2;
+  top: 15%;
+  box-shadow: inset 0 0 0 7px aliceblue;
+}
+.formLogin{
+  flex-direction: column;
+}
+.container03{
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 30%;
+  height: 15%;
+  right: 4%;
+  background-color: #E9EBF2;
+  top: 60%;
+  box-shadow: inset 0 0 0 7px aliceblue;
+}
+.container03 p{
+  margin: 0;
+}
+.footer{
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 92%;
+  height: 5%;
+  right: 4%;
+  background-color: #BCCCEB;
+  top: 77%;
+}
+
